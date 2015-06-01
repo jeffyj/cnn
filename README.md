@@ -1,2 +1,2 @@
 # cnn
-Convolutional Neural Network
+Convolutional Neural Network (Implementation in C++)
